@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>TD N° 1 Design Patterns</h1>
 <h2>1- Une figure peut être soit un cercle, un rectangle ou un groupe de figures.</h2>
 <h2>Composite pattern</h2>
@@ -21,3 +22,9 @@ informés à chaque fois que le score du joueur change tout en gardant un coupla
 la classe Joueur et les autres classes.</h2>
 <h2>Observer pattern</h2>
 <img src="./images\q4.png">
+=======
+<h3>TD1-Design-Patterns</h3>
+<h4>Exercice 1</h4>
+<h4>1. </h4>
+<img src=".\images\q1.png"></img>
+>>>>>>> 3a9c86455dbd250eea4b79c81d124bdb6cc5b893
